@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  background-color: #f2f2f2;
+  padding: 20px 0;
+}
+
+h1 {
+  margin: 0;
+}
+
+.subtitle {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.recipe {
+  margin: 20px auto;
+  max-width: 100%; /* Ajuste para que ocupe todo el ancho disponible */
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.recipe h2 {
+  text-align: center;
+}
+
+.recipe p {
+  text-align: justify;
+  /* Ajuste para justificar en todo el ancho */
+  text-align-last: justify;
+}
