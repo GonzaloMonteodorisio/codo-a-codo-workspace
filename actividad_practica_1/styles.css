@@ -35,5 +35,4 @@ h1 {
 .recipe p {
   text-align: justify;
   /* Ajuste para justificar en todo el ancho */
-  text-align-last: justify;
 }
